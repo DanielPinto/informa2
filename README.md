@@ -1,1 +1,1 @@
-# informa2
+# informa-2
